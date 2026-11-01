@@ -15,6 +15,9 @@ Disponibilidade confirmada pelo participante:
 
 Projeção sem rendimentos, custos ou perdas: R$ 5.000 ao fim do mês 5; R$ 5.500 ao fim do mês 6; R$ 8.500 ao fim do mês 12; R$ 11.500 ao fim do mês 18; R$ 14.500 ao fim do mês 24. Esses valores representam apenas aportes acumulados, não lucro nem autorização automática para operar.
 
+## Planejamento
+- [Roteiro dos primeiros 90 dias](docs/roteiro-90-dias.md)
+
 ## Fases
 1. **Estudo:** contrato, microestrutura, macroeconomia, custos, impostos e funcionamento da plataforma.
 2. **Simulação:** registrar operações hipotéticas, regras, custos estimados, slippage e contexto.
