@@ -17,6 +17,7 @@ Projeção sem rendimentos, custos ou perdas: R$ 5.000 ao fim do mês 5; R$ 5.50
 
 ## Planejamento
 - [Roteiro dos primeiros 90 dias](docs/roteiro-90-dias.md)
+- [Modelo de diário WDO](docs/modelo-diario-wdo.md)
 
 ## Fases
 1. **Estudo:** contrato, microestrutura, macroeconomia, custos, impostos e funcionamento da plataforma.
