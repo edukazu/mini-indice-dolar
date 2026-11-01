@@ -8,8 +8,12 @@ Construir conhecimento verificável, testar hipóteses e desenvolver disciplina 
 ## Regra central
 **Primeiro preservar capital e provar consistência; só depois considerar operação real e qualquer aumento de exposição.** Aportes não são lucro. Não operar para recuperar perdas. Não usar dinheiro necessário a despesas, dívidas ou reserva de emergência.
 
-## Situação inicial de capital
-Plano informado pelo participante: disponibilidade de R$ 1.000 nos primeiros cinco meses e, depois, R$ 500 por mês. A interpretação exata (R$ 1.000 no total ao longo dos cinco meses ou R$ 1.000 por mês) ainda precisa ser confirmada. Até essa confirmação, adotar a hipótese conservadora de R$ 1.000 totais nos primeiros cinco meses.
+## Plano inicial de aportes
+Disponibilidade confirmada pelo participante:
+- **Meses 1 a 5:** R$ 1.000 por mês (R$ 5.000 no total).
+- **A partir do mês 6:** R$ 500 por mês.
+
+Projeção sem rendimentos, custos ou perdas: R$ 5.000 ao fim do mês 5; R$ 5.500 ao fim do mês 6; R$ 8.500 ao fim do mês 12; R$ 11.500 ao fim do mês 18; R$ 14.500 ao fim do mês 24. Esses valores representam apenas aportes acumulados, não lucro nem autorização automática para operar.
 
 ## Fases
 1. **Estudo:** contrato, microestrutura, macroeconomia, custos, impostos e funcionamento da plataforma.
